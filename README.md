@@ -34,6 +34,8 @@ This is the Schematic Diagram of the designed circuit implemented in EasyEDA.
 
 ![image](https://github.com/user-attachments/assets/9068b151-8654-40d3-bb9b-5d1c984e6fea)
 
+![WhatsApp Image 2024-08-11 at 16 27 38_071dd332](https://github.com/user-attachments/assets/c5e07d5d-e7d9-4424-a6f3-8635b6ae0214)
+
 
 
 
