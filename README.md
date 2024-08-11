@@ -32,6 +32,9 @@ This is the Schematic Diagram of the designed circuit implemented in EasyEDA.
 
 ![image](https://github.com/Gowtham245678/Embedded-Health-Monitoring-System-with-User-Authentication-/assets/138134146/1871a842-3bd8-4e2b-8673-c8d441ac869d)
 
+![image](https://github.com/user-attachments/assets/9068b151-8654-40d3-bb9b-5d1c984e6fea)
+
+
 
 
 
